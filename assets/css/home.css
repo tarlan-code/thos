@@ -1,0 +1,99 @@
+@media screen and (min-width: 990px) {
+    h1 {
+      font-size: 64px !important;
+    }
+  }
+.top_section{
+    margin-top: 200px;
+}
+
+
+h1{
+    font-size: 30px;
+    font-family: "Libre Baskerville", sans-serif;
+}
+
+h5{
+    font-size: 24px;
+    font-family: "Libre Baskerville", sans-serif;
+    font-weight: 700;
+}
+
+h2{
+
+    font-size: 40px;
+    font-weight: 600;
+    font-family: "Libre Baskerville", sans-serif;
+}
+
+.forfont{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.medium_section
+{
+    background-color: #f2edeb;
+    margin-top: 200px;
+}
+
+.medium_section_container{
+    padding: 130px 0 130px;
+
+}
+
+.img_gallery{
+    margin-top: 100px;
+}
+
+.instagram_folow{
+    margin-top: 170px;
+}
+
+/* Footer */
+
+.subscribe_sec{
+    background-color: #E8E3E1;
+    margin-top: 150px;
+  }
+  
+  .subscribe_col{
+    font-family: "Libre Baskerville", sans-serif;
+  }
+  
+  .subscribe_col input{
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 180px 10px 16px;
+    float: none!important;
+    margin-left: 0!important;
+  
+  }
+  
+  .emailadress{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .button_sub{
+    border-radius: 0 !important;
+    font-family:'Open Sans', sans-serif !important;
+    padding: 10px 20px !important;
+    font-weight: 600 !important;
+  }
+  .fa-brands { color: rgb(0, 0, 0) !important; }
+  
+  #navbarNavDropdown ul li a:hover{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+  }
+  
+  .social_media a i{
+    transition: 0.5s;
+  }
+  .social_media a i:hover{
+    transition: 0.5s;
+    opacity: 70%;
+  }
+
+
+

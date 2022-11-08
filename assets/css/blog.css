@@ -1,0 +1,57 @@
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+#navbarNavDropdown ul li a:hover, .nav_page{
+    text-decoration: underline !important;
+    text-underline-offset: 10px;
+  }
+  
+
+.blog_container{
+    margin-top: 200px !important;
+    margin-bottom: 150px !important;
+}
+/* Footer  */
+
+.subscribe_sec{
+    background-color: #E8E3E1;
+    margin-top: 150px;
+  }
+  
+  .subscribe_col{
+    font-family: "Libre Baskerville", sans-serif;
+  }
+  
+  .subscribe_col input{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 180px 10px 16px;
+    float: none!important;
+    margin-left: 0!important;
+  
+  }
+  
+  .emailadress{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .button_sub{
+    border-radius: 0 !important;
+    font-family:'Open Sans', sans-serif !important;
+    padding: 10px 20px !important;
+    font-weight: 600 !important;
+  }
+  .fa-brands { color: rgb(0, 0, 0) !important; }
+  
+  
+  .social_media a i{
+    transition: 0.5s;
+  }
+  .social_media a i:hover{
+    transition: 0.5s;
+    opacity: 70%;
+  }
